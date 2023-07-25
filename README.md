@@ -1,6 +1,6 @@
 # HAM SE YEON 😉
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=byhoon3)](https://solved.ac/byhoon3)<br/>
-https://github.com/undervi/cooding_test_python/tree/main
+https://github.com/undervi/cooding_test_python
 
 
 # 💪Skills
